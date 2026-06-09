@@ -9,10 +9,27 @@
 
 ### About Me
 
-- 🔭 I’m currently working on an **automated Smart Gate System** that integrates Computer Vision (YOLO, ArcFace/FaceNet) with IoT and campus academic databases (SIAKAD).
-- 🌱 I’m continuously exploring and learning more about **Large Language Models (like Gemini Pro), Hugging Face, and Data Science**.
-- ⚙️ I enjoy building efficient solutions using API integrations and web services to automate administrative tasks.
-- ⚡ Fun fact: When I'm not compiling code or training AI models, you can probably find me climbing the ranks in Valorant or exploring Teyvat in Genshin Impact!
+I am an Informatics Engineering student with a strong interest in Full Stack Development, Artificial Intelligence, and Software Engineering.
+
+I enjoy building applications that solve real-world problems, from web and mobile applications to AI-powered systems. Throughout my academic journey, I have worked on various projects involving Flutter, Flask, Laravel, Next.js, MySQL, Oracle APEX, and Computer Vision using YOLOv8.
+
+Currently, I am focused on improving my skills in frontend development, backend development, databases, cloud technologies, and AI integration. I believe that continuous learning and hands-on experience are the keys to becoming a better developer every day.
+
+My goal is to grow into a professional Full Stack Developer who can create scalable, impactful, and user-centered digital solutions.
+
+Tech Stack:
+
+• Frontend: Flutter, Next.js, React
+
+• Backend: Flask, Laravel,
+
+• Database: MySQL, Oracle, PostgreSQL
+
+• AI/ML: YOLOv8, Computer Vision
+
+• Tools: Git, GitHub, Docker (Learning)
+
+Always open to learning, collaboration, and new opportunities.
 
 ---
 
