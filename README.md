@@ -38,9 +38,9 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_KAMU]&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kotsuke&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[USERNAME_GITHUB_KAMU]&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kotsuke&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -48,13 +48,10 @@
 ### Get in Touch
 
 <p align="left">
-  <a href="mailto:[ALAMAT_EMAIL_KAMU]">
+  <a href="mailto:subandrio140705@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[LINK_LINKEDIN_KAMU]">
+  <a href="(https://www.linkedin.com/in/subandrio-kotsuke-07a975291/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="[LINK_KAGGLE_KAMU]">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
